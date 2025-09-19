@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: [https://fadymas.github.io/product-list-with-cart-main/](https://fadymas.github.io/product-list-with-cart-main/)
+- [Solution URL](https://www.frontendmentor.io/solutions/product-list-with-cart-react-tailwind-and-context-api-gq9GDaUaSP)
+- [Live Site URL](https://fadymas.github.io/product-list-with-cart-main/)
 
 ## My process
 
