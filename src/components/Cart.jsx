@@ -24,7 +24,7 @@ export default function Cart({ loading }) {
   }
   if (!loading) {
     return (
-      <aside className="cart-section mx-auto w-85 lg:w-96 mt-12 p-4 lg:ml-0  md:p-6 h-fit lg:mt-2 rounded-xl bg-white space-y-6">
+      <aside className="cart-section  mx-auto w-[85vw] lg:w-96 mt-12 p-4 lg:ml-0  md:p-6 h-fit lg:mt-2 rounded-xl bg-white space-y-6">
         <h3 className="text-xl font-bold text-Red">
           Your Cart ({cartItemsLength})
         </h3>

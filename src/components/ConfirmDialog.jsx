@@ -24,7 +24,7 @@ export default function ConfirmDialog() {
         className="dialog-backdrop z-200 fixed w-full h-full bg-gray-400 opacity-50"
         hidden
       ></div>
-      <dialog className=" z-1000 bottom-0 fixed  rounded-t-2xl bg-white p-6 shadow-2xl sm:mx-auto lg:top-1/2 lg:-translate-y-1/2 lg:w-[37rem] lg:p-10 lg:rounded-[10px] transition-all">
+      <dialog className=" w-full z-1000 bottom-0 fixed flex-col   rounded-t-2xl bg-white p-6 shadow-2xl sm:mx-auto lg:top-1/2 lg:-translate-y-1/2 lg:w-[37rem] lg:p-10 lg:rounded-[10px] transition-all">
         <section className="flex gap-3 flex-col">
           <img src={orderConfirmedIcon} alt="" className=" w-12 " />
           <div className="messages space-y-1 flex-col">
